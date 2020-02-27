@@ -160,7 +160,6 @@ return [
         // App\Providers\BroadcastServiceProvider::class,
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
-        \Naux\Mail\SendCloudServiceProvider::class,
         Rap2hpoutre\LaravelLogViewer\LaravelLogViewerServiceProvider::class,
         Sentry\SentryLaravel\SentryLaravelServiceProvider::class,
         Maatwebsite\Excel\ExcelServiceProvider::class,
