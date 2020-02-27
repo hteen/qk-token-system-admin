@@ -1,10 +1,11 @@
 
 
-#概述<br>
+##概述
+
 Token-Project的管理后台，包括会员管理、资产管理、交易记录、提现管理等功能。<br>
-<br>
-<br>
-#运行环境需求<br>
+
+##运行环境需求
+
 该项目基于Laravel5.7开发，运行环境需满足如下要求：<br>
 PHP >= 7.1.3<br>
 OpenSSL PHP 扩展<br>
@@ -16,9 +17,7 @@ Ctype PHP 扩展<br>
 JSON PHP 扩展<br>
 <br>
 Laravel5.7相关文档：https://learnku.com/docs/laravel/5.7/installation/2242#server-requirements<br>
-<br>
-<br>
-#安装部署<br>
+## 安装部署
 1、克隆项目文件到服务器<br>
 2、将public目录设置为WEB站点根目录，public/index.php为入口文件<br>
 3、Linux系统需要设置storage目录和bootstrap/cache可写权限<br>
