@@ -2,7 +2,7 @@
 
 ## 概述
 
-Token-Project的管理后台，包括会员管理、资产管理、交易记录、提现管理等功能。<br>
+QK-Token-System 的管理后台，包括会员管理、资产管理、交易记录、提现管理等功能。<br>
 
 ## 运行环境需求
 
@@ -17,7 +17,7 @@ Ctype PHP 扩展<br>
 JSON PHP 扩展<br>
 BCMath PHP 拓展<br>
 <br>
-Laravel5.7相关文档：https://learnku.com/docs/laravel/5.8/installation/3879#df1b28<br>
+Laravel5.8相关文档：https://learnku.com/docs/laravel/5.8/installation/3879#df1b28<br>
 
 ## 安装部署
 
@@ -29,5 +29,5 @@ Laravel5.7相关文档：https://learnku.com/docs/laravel/5.8/installation/3879#
 6、导入database/admin.sql到数据库，会添加一条管理员数据，账号密码见SQL文件中的注释<br>
 7、访问项目地址，输入管理员账号密码进行登录<br>
 <br>
-Laravel5.7相关文档：https://learnku.com/docs/laravel/5.8/installation/3879#224e2c<br>
+Laravel5.8相关文档：https://learnku.com/docs/laravel/5.8/installation/3879#224e2c<br>
                    https://learnku.com/docs/laravel/5.8/migrations/3928#running-migrations<br>
